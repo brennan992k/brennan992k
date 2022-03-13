@@ -3,6 +3,5 @@
 
 ### Languages and Tools:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennan992k&layout=compact&hide=html" alt="brennan992k" /></p>
-<br>
-<br>
+<p height="30px"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brennan992k&show_icons=true" alt="brennan992k" /></p>
