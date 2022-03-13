@@ -2,7 +2,5 @@
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 ### Languages:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennan992k&layout=compact&hide=html&theme=radical" alt="brennan992k" style="max-width: 100%;"/></p>
-
-### Activity:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brennan992k&show_icons=true&theme=radical" alt="brennan992k" style="max-width: 100%;"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennan992k&layout=compact&hide=html&theme=radical" alt="brennan992k" style="max-width: 100%;"/></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=brennan992k&show_icons=true&theme=radical" alt="brennan992k" style="max-width: 100%;"/></p>
